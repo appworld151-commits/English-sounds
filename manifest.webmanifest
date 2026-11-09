@@ -1,0 +1,33 @@
+{
+  "name": "English Sounds | دەنگە ئینگلیزییەکان",
+  "short_name": "English Sounds",
+  "description": "Learn English sounds, vocabulary and British pronunciation - works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050b1a",
+  "theme_color": "#2458a6",
+  "lang": "ckb",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
